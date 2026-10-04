@@ -1,0 +1,6 @@
+{
+  "name": "Portal EduWali - Wali Kelas & Orang Tua",
+  "description": "Aplikasi portal informasi pendidikan dua arah untuk Wali Kelas dan Orang Tua Siswa dengan rekapitulasi kehadiran, nilai ulangan, catatan prestasi, dan kedisiplinan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
